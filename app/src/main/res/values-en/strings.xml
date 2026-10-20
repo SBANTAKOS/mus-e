@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Musée Éthéré</string>
+    <string name="nav_exhibitions">Exhibitions</string>
+    <string name="nav_sculptures_3d">3D Sculptures</string>
+    <string name="nav_virtual_tours">360° Tours</string>
+    <string name="nav_audio_guide">Audio Guide</string>
+    <string name="nav_favorites">My Gallery</string>
+    <string name="museum_subtitle">Digital Art Gallery &amp; 3D Immersion</string>
+    <string name="curator_note">Curator\'s Note</string>
+    <string name="rotate_hint">Drag to inspect the 3D sculpture in 360°</string>
+</resources>

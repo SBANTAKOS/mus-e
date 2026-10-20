@@ -1,0 +1,6 @@
+{
+  "name": "Musée Éthéré",
+  "description": "Musée digital immersif avec sculptures 3D interactives, visites virtuelles à 360°, audioguide narré et chefs-d'œuvre en ultra haute définition.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Musée Éthéré</string>
+    <string name="nav_exhibitions">المعارض</string>
+    <string name="nav_sculptures_3d">منحوتات 3D</string>
+    <string name="nav_virtual_tours">جولات 360°</string>
+    <string name="nav_audio_guide">الدليل الصوتي</string>
+    <string name="nav_favorites">جناحي المفضل</string>
+    <string name="museum_subtitle">معرض الفنون الرقمي والانغماس ثلاثي الأبعاد</string>
+    <string name="curator_note">ملاحظة أمين المتحف</string>
+    <string name="rotate_hint">اسحب لاستكشاف المنحوتة ثلاثية الأبعاد بزاوية 360 درجة</string>
+</resources>
